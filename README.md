@@ -23,3 +23,7 @@ say_hello('you')
     'Hello you!'
 
 
+
+```python
+assert say_hello("Jeremy")=="Hello Jeremy!"
+```
